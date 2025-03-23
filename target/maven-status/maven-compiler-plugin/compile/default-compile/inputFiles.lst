@@ -1,0 +1,11 @@
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\controller\DeliveryFeeController.java
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\documentation\DeliveryFeeResponse.java
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\documentation\ErrorResponse.java
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\documentation\OpenAPIDocumentation.java
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\FeeCalculatorApplication.java
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\model\DeliveryFeeConfig.java
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\model\WeatherData.java
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\repository\DeliveryFeeRepository.java
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\repository\WeatherRepository.java
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\service\DeliveryFeeService.java
+C:\Users\brand\OneDrive\Töölaud\fee-calculator\src\main\java\com\example\feecalculator\service\WeatherDataFetcher.java
